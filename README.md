@@ -1,5 +1,6 @@
 # some-unc-functions
 Some functions i spent time on, that will be added to Extended API
+*Note that not every function works on identity 2 LocalScript/ServerScript*
 
 ## Documentation
 
