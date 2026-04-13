@@ -8,7 +8,12 @@ I will also try to spoon feed here as much as possible since I want everyone to 
 
 ## 1. getcustomasset.lua
 ## 2. hookmetamethod.lua (Semi-Functional and functional)
-## 3. getscriptclosure.lua
+
+Before we get into this, I have to state that (as also said in this project's README.md), replacing the metamethod is NOT enough.
+
+You need to ACTUALLY HOOK the metamethod. There are 2 ways to do this.
+
+## 3. getscriptclosure.lua/getscriptfunction.lua
 ## 4. LoadLibrary
 ## 5. getsenv.lua (Semi-Functional)
 ## 6. getfunctionhash.lua (Semi-Functional)
